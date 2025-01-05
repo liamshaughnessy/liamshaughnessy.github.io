@@ -2,6 +2,10 @@ body {
   background-color: rgb(251, 255, 206);
 }
 
+h3, h5, #abstract {
+  text-align: left;
+}
+
 @media (min-width: 700px) {
   #images {
     position: relative;
