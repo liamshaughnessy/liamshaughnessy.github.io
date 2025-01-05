@@ -29,8 +29,20 @@ h5 {
 }
 
 .blog {
+  margin-top: 2%;
   margin-left: 2%;
   margin-right: 2%;
   font-size: 12px;
   line-height: 1.0;
+}
+
+.blog-image {
+  float: left;
+  margin-right: 2%;
+  margin-top: 1%;
+}
+
+a {
+  text-decoration: none;
+  color: #222;
 }
